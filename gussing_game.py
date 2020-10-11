@@ -1,4 +1,4 @@
-secrt_word1 = "dog"
+secrt_word1 = "donkey"
 guess = ""
 guess_count = 0
 guess_limit = 3
