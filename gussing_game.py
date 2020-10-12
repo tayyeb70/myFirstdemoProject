@@ -12,4 +12,4 @@ while guess != secrt_word1 and not(out_of_guesses):
 if out_of_guesses:
     print("out of guesses, YOU LOSSE THE GAME! ")
 else:
-    print("YOU WIN THE GAME!")
+    print("WAOOO YOU WIN THE GAME!")
